@@ -12,6 +12,13 @@ Success Senario:
 a) The trader enters a positive ammount into the modify field. They fill in the optional description. The trader hits enter and this saves the ammount and description in the database.
 b) the trader enters a negative ammount into the modify field. They fill in the options descirption. the trader hist enter and this saves the ammount and desciprtion in the database
 
-title: Goal Setting
+title: Set Goals
 primary actor: Trader
 success senario: The trader selects their goal. They enter a yearly ammount, a monthly ammount, or a daily ammount. The subsequent fields are calculated-- e.g. if yearly ammount is entered, the daily and monthly goals are calculated; if a monthly ammount is entered, the daily and yearly ammount are calcualted; if a daily ammount is entered, the yearly and montyly ammount are calcualted
+
+title: Set Risk/Target
+primary actor: Trader
+success summary: 
+1) the trader selects their risk limit field. The trader is able to modify their risk limit percentage to meet their financial expectation. The monetary risk limit calcualtion will take the total account balance and apply the risk percentage (i.e. Account Balance * .01). To change the ammount the percentage will need to be modified 
+
+2) the trader selects their target field. the trader is able to modify their target to meet their financial expectation for their goals. The monetary target calcualtion will take the total account balance and apply the target percentage and display the ammount(i.e. Account Balance * .03). To change the ammount the percentage will need to be modified.
