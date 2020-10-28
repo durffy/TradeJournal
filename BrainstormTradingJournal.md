@@ -2,11 +2,6 @@
 x per year, x$ per month, x$ per day
 - bills
 
-# IDEA
-- dashboard 
-- - loss based on previous days close?
-- - loss based on previous weeks close?
-
 # Account
 - a representation of the funds in an account
 date
@@ -44,3 +39,12 @@ thoughts
 feelings
 reflection
 chart
+
+
+# IDEA
+- dashboard 
+- - loss based on previous days close?
+- - loss based on previous weeks close?
+
+10/28/2020 - other ideas will come up in the process of development. They will be put here for reference in other versions
+
