@@ -11,3 +11,7 @@ Primary Actor: Trader
 Success Senario: 
 a) The trader enters a positive ammount into the modify field. They fill in the optional description. The trader hits enter and this saves the ammount and description in the database.
 b) the trader enters a negative ammount into the modify field. They fill in the options descirption. the trader hist enter and this saves the ammount and desciprtion in the database
+
+title: Goal Setting
+primary actor: Trader
+success senario: The trader selects their goal. They enter a yearly ammount, a monthly ammount, or a daily ammount. The subsequent fields are calculated-- e.g. if yearly ammount is entered, the daily and monthly goals are calculated; if a monthly ammount is entered, the daily and yearly ammount are calcualted; if a daily ammount is entered, the yearly and montyly ammount are calcualted
