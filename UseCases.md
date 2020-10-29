@@ -19,6 +19,6 @@ success senario: The trader selects their goal. They enter a yearly ammount, a m
 title: Set Risk/Target
 primary actor: Trader
 success summary: 
-1) the trader selects their risk limit field. The trader is able to modify their risk limit percentage to meet their financial expectation. The monetary risk limit calcualtion will take the total account balance and apply the risk percentage (i.e. Account Balance * .01). To change the ammount the percentage will need to be modified 
+a) the trader selects their risk limit field. The trader is able to modify their risk limit percentage to meet their financial expectation. The monetary risk limit calcualtion will take the total account balance and apply the risk percentage (i.e. Account Balance * .01). To change the ammount the percentage will need to be modified 
 
-2) the trader selects their target field. the trader is able to modify their target to meet their financial expectation for their goals. The monetary target calcualtion will take the total account balance and apply the target percentage and display the ammount(i.e. Account Balance * .03). To change the ammount the percentage will need to be modified.
+b) the trader selects their target field. the trader is able to modify their target to meet their financial expectation for their goals. The monetary target calcualtion will take the total account balance and apply the target percentage and display the ammount(i.e. Account Balance * .03). To change the ammount the percentage will need to be modified.
