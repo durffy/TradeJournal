@@ -27,3 +27,6 @@ title: track trades
 primary actor: Trader
 success summary: the trader enters in a trade. the select an empty field in the trading list and start entering data. Data fields include the date, time, ticker, price, quantity, open price, close price. 
 
+title: add notes
+primary actor: trader
+success summary: the trader clicks on a trade and is taken to the journal on that trade. they fill in an optional description, and optional emotion, optional thoughts, optional advice and hit enter. They remain in the interface where they can add more notes, thoughts, emotions, and advice for what they would do different.
